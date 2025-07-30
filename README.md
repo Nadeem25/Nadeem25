@@ -6,13 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Result-oriented **Full Stack Developer** with 4 years of experience in designing, developing, and deploying web applications and microservices.
-
-✅ Proficient in **Angular**, **Node.js**, **JavaScript**, **TypeScript**, and **SQL**  
-✅ Hands-on expertise in **REST APIs**, **CI/CD pipelines**, and **Docker-based deployments**  
-✅ Proven track record of delivering high-quality, scalable software solutions  
-✅ Experienced in working independently and collaborating within agile teams  
-✅ Eager to expand skills in **Python**, **Generative AI**, and modern tech stacks
+Result-oriented **Full Stack Developer** with 4 years of experience in designing, developing, and deploying web applications and microservices. Proficient in **Angular**, **Node.js**, **JavaScript**, **TypeScript**, and **SQL**. Hands-on expertise in **REST APIs**, **CI/CD pipelines**, and **Docker-based deployments**. Proven track record of delivering high-quality, scalable software solutions. Eager to expand skills in **Python**, **Generative AI**, and modern tech stacks
 
 
 ## 🚀 Tech Stack
