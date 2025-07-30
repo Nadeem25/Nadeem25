@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Nadeem Chaudhary
 
-<!--
-**Nadeem25/Nadeem25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Data Science (Germany)  
+💻 Full Stack Web Application Developer | 4+ Years of Experience  
+🌍 Based in Berlin, Germany  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+**Programming Languages:** JavaScript, Java    
+**Frontend:** Angular, React, HTML, CSS    
+**Backend:** Node.js, TypeScript, Express.js, REST APIs    
+**Database:** MySQL    
+**DevOps:** Git, Docker, AWS, CI/CD    
+**Monitoring:** Grafana, Prometheus, Loki    
+**Others:** Agile, Jira    
+**Learning:** Generative/Agentic AI, ML/DL    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+
+- 📧 Email: 25nadeemchaudhary.dev@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nadeem-software-engineer/)
