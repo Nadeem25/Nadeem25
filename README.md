@@ -14,7 +14,15 @@
 **Others:** Agile, Jira    
 **Learning:** Generative/Agentic AI, ML/DL    
 
-## 📫 Let's Connect
 
-- 📧 Email: 25nadeemchaudhary.dev@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nadeem-software-engineer/)
+## 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/nadeem-software-engineer/" target="_blank">
+  <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
+<a href="mailto:25nadeemchaudhary.dev@gmail.com" target="_blank">
+  <img align="left" alt="Email" width="24px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+</a>
+
+<br>
