@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nadeem Chaudhary
 
 🎓 Master's Student in Data Science (Berlin,Germany)  
-💻 Full Stack Web Application Developer | 4+ Years of Experience | Eager to build Gen AI application and ML Model 
+💻 Full Stack Web Application Developer | 4+ Years of Experience | Eager to build Gen AI application and ML Model  
 🌍 Based in Berlin, Germany  
 
 ## 👨‍💻 About Me
