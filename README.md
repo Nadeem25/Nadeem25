@@ -10,13 +10,13 @@ Result-oriented **Full Stack Developer** with 4 years of experience in designing
 
 
 ## 🚀 Tech Stack
-**Programming Languages:** JavaScript, Java    
-**Frontend:** Angular, React, HTML, CSS    
+**Programming Languages:** JavaScript, Python    
+**Frontend:** Angular, HTML, CSS    
 **Backend:** Node.js, TypeScript, Express.js, REST APIs    
 **Database:** MySQL    
 **DevOps:** Git, Docker, AWS, CI/CD    
 **Monitoring:** Grafana, Prometheus, Loki    
-**Others:** Agile, Jira    
+**Methedologies:** Agile, Jira    
 **Learning:** Generative/Agentic AI, ML/DL    
 
 
